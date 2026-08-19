@@ -32,7 +32,7 @@
       "icon": "YT",
       "label": "YouTube",
       "sub": "Subscribe for new videos",
-      "url": "https://youtube.com/@baisgaminglive?si=syaqeK0jgxq1_0kF"and 
+      "url": "https://youtube.com/@baisgaminglive?si=syaqeK0jgxq1_0kF"
     },
     {
       "type": "discord",
@@ -66,3 +66,4 @@
       "url": "https://www.mediafire.com/file/snnj6yep925ctv3/Wcc4.zip/file"
     }
   ]
+}
